@@ -27,10 +27,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Downloaded and Installed MySQL
 - Opened IIS as an Admin
 
-<h2>Installation Steps</h2>
+<h2>Installation Steps</h2>![image](https://github.com/alhutchinson/osticket-prereqs/assets/171261246/9a33ee27-65a6-4335-aaf5-9f5a59a5162b)
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![Uploading image.png…]()
+" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
