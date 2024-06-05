@@ -37,22 +37,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Snap shot of me installing ISS on windows machine.
+Snapshot of me installing ISS on windows machine.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/alhutchinson/osticket-prereqs/assets/171261246/64f448fe-9e33-4900-9e49-2aa10b79f02f)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Downloaded and Installed Rewrite Manager on windows machine.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/alhutchinson/osticket-prereqs/assets/171261246/463c571b-41ce-43ac-89eb-39ca18e5ca4a)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a PHP directory on the local hard drive.
 </p>
 <br />
