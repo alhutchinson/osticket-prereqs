@@ -48,7 +48,7 @@ IIS is a flexible, secure web server software developed by Microsoft. It is prim
 
 </p>
 <p>
-Downloaded and Installed Rewrite Manager on windows machine.
+Rewrite manager in IIS is used for rewriting URLs, managing redirects, and improving the usability and SEO of web applications and websites hosted on IIS servers. A valuable tool for administrators and developers to increase performance of URL structures and manage URL changes effectively. This demonstrates me Downloading and Installing Rewrite Manager on a windows machine.
 </p>
 <br />
 
