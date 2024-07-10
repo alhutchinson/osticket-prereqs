@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Snapshot of me installing ISS on windows machine.
+IIS is a flexible, secure web server software developed by Microsoft. It is primarily used for hosting websites and web applications on Windows servers. IIS monitors server performance, application pools and trouble shoot server issues. This is a Snapshot of me installing ISS on a windows machine.
 </p>
 <br />
 
