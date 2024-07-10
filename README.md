@@ -58,6 +58,6 @@ Rewrite manager in IIS is used for rewriting URLs, managing redirects, and impro
 
 </p>
 <p>
-Created a PHP directory on the local hard drive.
+PHP on a local hard drive is a structured collection of files and folders where developers and Administrators manage PHP projects locally before moving them to a live server. It is essential for development, testing and version control of PHP application. This is a demonstration of a PHP directory on a local hard drive.
 </p>
 <br />
